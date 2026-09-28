@@ -12,6 +12,7 @@ and export to Word, PDF and EPUB.
 |---|---|
 | macOS — Apple Silicon (M1/M2/M3/M4) | [Skrift-mac-apple-silicon.dmg](https://github.com/LordXerra/skrift-releases/releases/latest/download/Skrift-mac-apple-silicon.dmg) |
 | macOS — Intel | [Skrift-mac-intel.dmg](https://github.com/LordXerra/skrift-releases/releases/latest/download/Skrift-mac-intel.dmg) |
+| Windows | [Microsoft Store](https://apps.microsoft.com/detail/9nmmtshqbtjc) |
 
 The macOS builds are signed and notarised by Apple. Skrift runs as a free trial
 until you enter a licence key.
